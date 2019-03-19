@@ -4,6 +4,11 @@
       :to="{ name: 'restaurant', params: { id: restaurant.id } }"
       style="text-decoration: none;"
     >
+      <v-img
+        src="https://cdn.vuetifyjs.com/images/cards/desert.jpg"
+        aspect-ratio="2.75"
+      ></v-img>
+
       <v-card class="ma-25">
         <v-card-title primary-title>
           <div>

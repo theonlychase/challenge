@@ -19,11 +19,6 @@ export default {
   components: {
     Navigation,
     Footer
-  },
-  data() {
-    return {
-      //
-    }
   }
 }
 </script>
