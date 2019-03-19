@@ -1,0 +1,57 @@
+{
+  "restaurants": [{
+      "id": 1,
+      "title": "Texas De Brazil",
+      "description": "Brazilian Steakhouse",
+      "location": "Las Vegas"
+    },
+    {
+      "id": 2,
+      "title": "Protein House",
+      "description": "Healthy Food",
+      "location": "San Diego"
+    },
+    {
+      "id": 3,
+      "title": "Teriyaki Madness",
+      "description": "Teriyaki Bowls",
+      "location": "New York"
+    },
+    {
+      "id": 4,
+      "title": "Papa Johns",
+      "description": "Pizza",
+      "location": "Denver"
+    },
+    {
+      "id": 5,
+      "title": "Cafe Rio",
+      "description": "Burritos and Tacos",
+      "location": "Salt Lake City"
+    },
+    {
+      "id": 6,
+      "title": "Pin Kao",
+      "description": "Thai Cuisine",
+      "location": "Phoenix"
+    },
+    {
+      "id": 7,
+      "title": "Panda Express",
+      "description": "Chinese",
+      "location": "Las Vegas"
+    },
+    {
+      "id": 8,
+      "title": "Grimaldi's",
+      "description": "Italian",
+      "location": "Las Vegas"
+    },
+    {
+      "id": 9,
+      "title": "Blueberry Hill",
+      "description": "American Breakfast",
+      "location": "North Carolina"
+    }
+  ]
+}
